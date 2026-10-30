@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shigeie-utaawase",
  "yomi": "ちゅうぐうのすけしげいえあそんけうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（五題）",
+  "era": "永万2年（1166）",
+  "author": "主催 藤原重家／判者 藤原顕広（俊成）",
+  "desc": "中宮亮藤原重家の家で催された歌合。花・郭公・月・雪・恋の五題で、実国・隆季・頼政・小侍従・俊恵・顕昭ら当代の歌人が詠み、顕広（のちの俊成）が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
